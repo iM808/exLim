@@ -1,0 +1,91 @@
+html,body{
+  background: url("passegiata.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
+  margin:0;
+
+}
+.icon_bar{
+  height: 30px;
+  background-color: #33ff11;
+  width: 83%;
+  margin-left: 50px;
+  text-align: center;
+  margin-top: 1px;
+  margin-right: 50px
+}
+.titolo{
+  color: #33ff11;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 22px;
+  margin: 0;
+}
+.logo{
+  width: 160px;
+  margin-left: 310px;
+  margin-top: 10px
+}
+
+.button{
+  margin-top:7.5px;
+  font-size: 10px;
+}
+.button:hover{
+  color: blue;
+}
+.container-site{
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  margin-left: 220px;
+  margin-bottom: 30px;
+  padding-top: 50px;
+  padding-bottom: 80px;
+  width: 65%;
+  display: inline-table;
+  margin-top: 20px
+}
+
+main{
+  margin-left: 50px;
+  color: white;
+}
+.carica1{
+  background-color: #FFA54F; opacity: 0.9;
+  height: 18px;
+  margin-right: 500px;
+  border-radius: 5px;
+}
+.carica2{
+  background-color: #33ff88;
+  height: 18px;
+  margin-right: 300px;
+  border-radius: 5px;
+}
+.carica3{
+  background-color: #CD4F39; opacity: 0.9;
+  height: 18px;
+  margin-right: 600px;
+  border-radius: 5px;
+}
+.proprietario1{
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-top: 25px;
+}
+.proprietario2{
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-top: 25px;
+}
+.proprietario3{
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-top: 25px;
+}
+.posizione{
+  margin: 0;
+  font-size: 14px;
+}
